@@ -27,4 +27,4 @@ Use the `extract_content` function in `model.py` to pull content from designated
 
 ## Vision
 
-URL_xTractor is a robust tool for extracting large amounts of URL data from Excel files, simplifying data preprocessing for machine learning applications. Its customizability and user-friendly design make it ideal for efficient and large-scale data extraction tasks.
+URL_xTractor is a robust tool for extracting large amounts of URL data from Excel files, simplifying data preprocessing for machine learning applications. Optimal for efficient and large-scale data extraction tasks.
