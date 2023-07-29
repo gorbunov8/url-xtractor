@@ -5,7 +5,7 @@ Lightweight Python app for user-friendly, customizable web data extraction. Choo
 
 ## Project philosophy
 
-- Simplifies URL Extraction
+- Simplifies large-scale URL Extraction
 - Customizable Application Functionality
 - Robust and User-Friendly Experience
 
