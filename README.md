@@ -13,7 +13,7 @@ Lightweight Python app for user-friendly, customizable web data extraction. Choo
 
 Follow these steps to get this project up and running:
 
-Step 1: Clone the repository
+Step 1: Clone repository
 
 Step 2: Install dependencies 
 
