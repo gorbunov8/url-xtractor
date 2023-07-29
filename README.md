@@ -3,4 +3,4 @@ Lightweight Python app for user-friendly, customizable web data extraction. Choo
 
 <img src="interface.png" width="500">
 
-Use the `extract_content` function in `model.py` to pull content from designated `<div>` containers in HTML by specifying their CSS class. Default target is the `<body>` container.
+Use the `extract_content` function in `model.py` to pull content from designated `<div>` containers in HTML by specifying their CSS class. Default target: `<body>` container.
