@@ -17,9 +17,9 @@ Step 1: Clone the repository
 
 Step 2: Install dependencies 
 
-Step 3: Specify target HTML element (optional)
+Step 3: Specify target HTML element using `extract_content` function (optional)
 
-Step 4: Run gui.py
+Step 4: Run `gui.py`
 
 ## Features
 
