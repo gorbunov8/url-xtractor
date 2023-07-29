@@ -9,7 +9,11 @@ Use the `extract_content` function in `model.py` to pull content from designated
 
 Follow these steps to get this project up and running:
 
+
 Step 1: Clone the repository
+
 Step 2: Install dependencies 
+
 Step 3: Specify target HTML element (optional)
+
 Step 4: Run gui.py
